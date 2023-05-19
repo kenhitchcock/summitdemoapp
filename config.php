@@ -1,5 +1,5 @@
 <?php
-$dbhost="34.142.3.117";
+$dbhost="database.openshiftlab.co.uk";
 $dbdatabase="summitdb";
 $dbuser="summituser";
 $dbpass="supersecure";
